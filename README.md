@@ -9,6 +9,10 @@
 
 **Impact:** Created a production-ready spam filter with high accuracy on unseen messages, demonstrating proficiency in NLP, text preprocessing, and TensorFlow text classification pipelines.
 
+## Collabs Notebook
+```
+https://colab.research.google.com/drive/1pi-DqFmtXV82ZALjy22OBMJoUKM0yCQj?usp=drive_link
+```
 
 
 ## Step-by-Step Implementation
